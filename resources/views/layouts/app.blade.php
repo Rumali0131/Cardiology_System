@@ -28,6 +28,7 @@
         html {
             line-height: 1.15;
             -webkit-text-size-adjust: 100%;
+            background-color: #cbd5e0;
         }
 
         body {
@@ -188,7 +189,8 @@
 
         .py-4 {
             padding-top: 1rem;
-            padding-bottom: 1rem
+            padding-bottom: 1rem;
+            background-color: #cbd5e0;
         }
 
         .px-6 {

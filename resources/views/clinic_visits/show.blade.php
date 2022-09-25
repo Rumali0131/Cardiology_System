@@ -20,7 +20,7 @@
                         <div class="col">: {{$clinicVisit->complaint}}</div>
                     </div>
                     <div class="row mt-4">
-                    <label class="col-sm-4 col-label-form"><b>Examination Finding</b></label>
+                        <label class="col-sm-4 col-label-form"><b>Examination Finding</b></label>
                     </div>
                     <div class="row">
                         <label class="col-sm-4 col-label-form"><b>PR</b></label>

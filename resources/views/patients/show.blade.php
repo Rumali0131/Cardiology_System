@@ -44,7 +44,7 @@
                         <div class="col-sm-8">: {{$patient->diagnosis}}</div>
                     </div>
                     <div class="row mt-4">
-                    <label class="col-sm-4 col-label-form"><b>Associated Medical Problems</b></label>
+                        <label class="col-sm-4 col-label-form"><b>Associated Medical Problems</b></label>
                     </div>
                     <div class="row">
                         <label class="col-sm-4 col-label-form"><b>DM</b></label>
